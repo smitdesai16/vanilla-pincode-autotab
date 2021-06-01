@@ -1,0 +1,19 @@
+{
+  "name": "vanilla-pincode-autotab",
+  "version": "1.0.0",
+  "description": "You can checkout demo at following path\r <br>\r https://smitdesai16.github.io/vanilla-pincode-autotab/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smitdesai16/vanilla-pincode-autotab.git"
+  },
+  "author": "Smit Desai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smitdesai16/vanilla-pincode-autotab/issues"
+  },
+  "homepage": "https://github.com/smitdesai16/vanilla-pincode-autotab#readme"
+}
