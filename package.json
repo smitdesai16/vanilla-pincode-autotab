@@ -1,6 +1,6 @@
 {
   "name": "vanilla-pincode-autotab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "You can checkout demo at following path\r <br>\r https://smitdesai16.github.io/vanilla-pincode-autotab/",
   "main": "index.js",
   "scripts": {
