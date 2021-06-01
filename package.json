@@ -4,7 +4,7 @@
   "description": "You can checkout demo at following path\r <br>\r https://smitdesai16.github.io/vanilla-pincode-autotab/",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node compiler.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/smitdesai16/vanilla-pincode-autotab/issues"
   },
-  "homepage": "https://github.com/smitdesai16/vanilla-pincode-autotab#readme"
+  "homepage": "https://github.com/smitdesai16/vanilla-pincode-autotab#readme",
+  "devDependencies": {
+    "fs-extra": "^10.0.0",
+    "node-sass": "^6.0.0",
+    "uglify-js": "^3.13.8"
+  }
 }
